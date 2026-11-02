@@ -1,6 +1,6 @@
 # CSEC3888 research website
 
-Updated 22/10/2026. Source-edit-only version. The homepage introduces the project and summarises a research takeaway. Two separate pages introduce **LLM Input Prototype** and **Seeding Experiment**, with 01/02/03 sections and links to their separate websites. The logo returns home. There are no editing controls, forms or browser-saved content overrides.
+Updated 22/10/2026. Source-edit-only version. The homepage introduces the project and summarises a research takeaway. Two separate pages introduce **LLM Input Prototype** and **Seeding Experiment**, with 01/02/03 sections and links to their separate websites. The logo returns home. There are no editing controls, forms or browser-saved content  overrides.
 
 ## Run locally
 
